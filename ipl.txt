@@ -1,0 +1,4 @@
+teams   points
+CSK	1
+RCB	2
+KXIP	
